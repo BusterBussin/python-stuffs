@@ -1,0 +1,6 @@
+name = ("Buzz Aldrin")
+age = ("90")
+rank = ("Colonel")
+days = ("12.0784")
+print(name + " is " + age + " years old")
+print("He is a " + rank + " and has spent " + days + " days in space.")
